@@ -182,11 +182,11 @@
             <div class="aboutme info-unit right-paragraph">
                 <h2 class="info-header"><i class="iconfont">&#xec0a;</i> <span class="info-title">自我评价</span></h2>
                 <hr>
-
+				<li>
 					<p>
 						我还没想好。。。
 					</p>
-			
+				</li>
             </div>
         </div>
     </div>
